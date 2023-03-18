@@ -4,8 +4,7 @@ Cubot is a machine designed to solve Rubik's cubes automatically. This repositor
 
 ## Usage
 
-Cubot is fully automated, and all you need to do is place your Rubik's cube on it and press a button. The machine's technical details are available in the doc folders, and the entry point is `gui.py`,the machinic details are in the documents folder.
-.
+Cubot is fully automated, and all you need to do is place your Rubik's cube on it and press the button. The machine's technical details are available in the doc folders, and the entry point is `gui.py`.
 
 If you encounter any problems while using Cubot, please reach out to me at rootby@126.com.
 
